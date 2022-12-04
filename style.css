@@ -96,3 +96,28 @@ overflow: hidden ;
     font-size: 25px;
   }
 
+ span{
+    color: #ec3e56;
+    visibility: hidden;
+    font-size: 20px;
+  }
+  a { text-decoration: none;}
+
+  .homebtn{
+    background-color:  #303942;
+    padding: 15px 0px 15px 35px;
+    border: none;
+    margin-top: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    color: #f5edef;
+   font-size: 20px;
+   justify-content: center;
+font-weight: bold ;
+  }
+
+  i {
+    padding-left: 10px;
+  }
+ 
